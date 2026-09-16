@@ -15,3 +15,4 @@ nav:
   - Home: index.md
   - Operations & SOPs: sop-guide.md
   - GitHub Quickstart: github-guide.md
+  - Enterprise Confluence: confluence-guide.md
