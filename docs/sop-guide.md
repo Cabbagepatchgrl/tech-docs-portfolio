@@ -9,7 +9,7 @@
 
 ---
 
-### 2. Schedule, Availability & Duty Hours
+### 1. Schedule, Availability & Duty Hours
 * **Regular Work Schedule:** 8:00 AM – 4:30 PM
 * **General Availability:** Fully reachable via email, Teams, and phone between 8:00 AM and 4:30 PM.
 * **Regular Break Window:** 12:30 PM or 1:00 PM (flexible depending on operational duties and task coverage).
@@ -19,7 +19,7 @@
 
 ---
 
-### 3. Daily Operational Flow
+### 2. Daily Operational Flow
 
 #### Phase 1: Morning Start-Up & Calendar Triage (8:00 AM – 9:00 AM)
 1. **System & Outlook Audit:** Log in and review incoming Outlook requests, Teams messages, and emails from both internal and external stakeholders.
@@ -57,7 +57,7 @@
 
 ---
 
-### 4. Verification & Output Standards
+### 3. Verification & Output Standards
 * **Calendar Accuracy:** Executive calendars reflect zero unresolved double-bookings, and all internal invitations contain room or virtual link details.
 * **Travel & Compliance:** Concur vouchers and CAR requests are submitted within required agency timelines with complete Smartsheet documentation.
 * **Operational Readiness:** ATAAPS submissions are finalized prior to bi-weekly deadlines, and visitor access is secured prior to arrival.
