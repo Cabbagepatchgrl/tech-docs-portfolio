@@ -1,6 +1,15 @@
 site_name: Technical Writing Portfolio
+
 theme:
   name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - content.code.copy
+    - navigation.expand
+    - search.highlight
+
 nav:
   - Home: index.md
   - Operations & SOPs: sop-guide.md
@@ -8,3 +17,10 @@ nav:
   - Enterprise Confluence: confluence-guide.md
   - Release Notes: changelog.md
   - API Reference: api-guide.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
