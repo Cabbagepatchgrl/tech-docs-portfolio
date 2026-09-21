@@ -15,12 +15,12 @@ Welcome to the User Management API reference documentation. This service provide
 
 All requests must be made over HTTPS. Plain HTTP requests will be rejected with a `301 Moved Permanently` redirect.
 
+```text
+Base URL: https://api.enterpriseportal.com/v1
 Authorization: Bearer YOUR_API_KEY
-
 curl -X GET "https://api.enterpriseportal.com/v1/users/usr_98765" \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Accept: application/json"
-
   {
   "status": "success",
   "data": {
@@ -32,11 +32,9 @@ curl -X GET "https://api.enterpriseportal.com/v1/users/usr_98765" \
     "created_at": "2026-01-15T08:30:00Z"
   }
 }
-
 {
   "status": "error",
   "code": 404,
   "message": "User with ID 'usr_98765' was not found.",
   "timestamp": "2026-09-21T15:30:00Z"
 }
-
