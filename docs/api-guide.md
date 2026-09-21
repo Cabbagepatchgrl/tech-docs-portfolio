@@ -17,6 +17,7 @@ All requests must be made over HTTPS. Plain HTTP requests will be rejected with 
 
 ```text
 Base URL: https://api.enterpriseportal.com/v1
+```
 Authorization: Bearer YOUR_API_KEY
 curl -X GET "https://api.enterpriseportal.com/v1/users/usr_98765" \
   -H "Authorization: Bearer YOUR_API_KEY" \
